@@ -1,0 +1,1 @@
+1)設計一個查詢網頁，呼叫Stored Procedure將上個範例建立的座右銘資料讀出，顯示在ListBox之中

@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "08_Anita", ".", "{72A8F39F-28F9-4672-825F-FCE715507371}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_3420"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\微軟全方位.Net_上課資料\ASP_NET\PartII\WebForm\20171222_作業\08_Anita\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3420\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_3420"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\微軟全方位.Net_上課資料\ASP_NET\PartII\WebForm\20171222_作業\08_Anita\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3420\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3420"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebService", "..\WebService\", "{26909A3F-80CD-466A-98BF-D914350C076A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_3502"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\微軟全方位.Net_上課資料\ASP_NET\PartII\WebForm\20171222_作業\WebService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3502\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_3502"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\微軟全方位.Net_上課資料\ASP_NET\PartII\WebForm\20171222_作業\WebService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3502\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3502"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A8F39F-28F9-4672-825F-FCE715507371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A8F39F-28F9-4672-825F-FCE715507371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26909A3F-80CD-466A-98BF-D914350C076A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26909A3F-80CD-466A-98BF-D914350C076A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81B389AA-7E32-4308-A32A-E0016F917FF7}
+	EndGlobalSection
+EndGlobal

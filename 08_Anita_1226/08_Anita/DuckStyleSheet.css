@@ -1,0 +1,80 @@
+﻿html, body, h1, ul, li {
+	margin: 0;
+	padding: 0;
+    
+}
+/*控制全頁面字形*/
+div{
+    font-family:微軟正黑體;
+}
+/*主題相關屬性*/
+#duckTheme{
+    width:800px;
+    height:auto;
+    top:25px;
+    left:0px;
+    text-align: left;
+	margin: auto;
+    position: relative;
+}
+#header{
+    width:100%;
+    height:250px;    
+    background:url(duckImage/header_bg.PNG);
+    background-size:800px 250px;
+    margin:0;
+}
+#top{
+    height:50px;
+    background:	#98FB98;
+}
+ul{
+    text-align:left;
+    float:left;    
+}
+li{    
+    display:inline;
+    font-size:1.4em;    
+}
+.list{
+    position:relative;
+    top:10px;
+}
+a{
+    font-family:微軟正黑體;
+    text-decoration:none;
+    color:#696969;
+}
+a:hover{
+    color:#008080;
+}
+#sayHiToUser{
+    position:absolute;
+    font-size:1.6em;
+    top:220px;
+    left:600px;
+    color:#696969;
+}
+#main{
+    height:auto;
+    min-height:600px;
+    background:	url(duckImage/main.PNG);
+    background-size:800px auto;
+    background-repeat:repeat-y;
+}
+#footer{
+    width:100%;
+    height:150px;
+    background:url(duckImage/footer.JPG);
+    background-size:800px;
+    background-repeat:no-repeat;
+}
+#insert{
+    width:640px;
+    height:auto;
+    min-height:200px;
+    position:relative;
+    left:80px;
+    top:50px;
+    font-size:1.2em;
+}

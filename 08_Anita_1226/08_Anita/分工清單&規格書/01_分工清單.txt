@@ -1,0 +1,25 @@
+版本更新清單：
+1. 註冊登入
+2. 新增商品
+3. 購買商品
+4. 美化網頁
+
+DataBase結構
+
+Table   |Column
+---------------------------------
+User    |ID     |PK | nvarchar(50)
+        |PW     |   | nvarchar(50)
+        |Name   |   | nvarchar(50)
+        |Email  |   | nvarchar(50)
+Product |ID     |PK | int(流水編號)
+        |Name   |   | nvarchar(50)
+        |Price  |   | int
+
+分工清單：
+Alisa   新增商品
+	
+Anita   註冊登入
+	
+一點    購買商品
+        美化網頁
